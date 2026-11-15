@@ -48,7 +48,7 @@ h2 { margin:0; font-size:clamp(32px, 4vw, 52px); line-height:1.05; }
 .framed.light { border-color:#25222A; }
 .scales .tag { background:#DCE8BF; } .scales .line1 { color:#3B2240; }
 .shoebox .tag { background:#F9C93A; } .shoebox .line1 { color:#3B2240; }
-.lovely .tag { background:#E3E9F5; } .lovely .line1 { color:#2E58C8; }
+.popin .tag { background:#FFE4EF; } .popin .line1 { color:#C8146A; }
 /* how */
 .how .wrap { padding-top:104px; padding-bottom:104px; display:flex; flex-direction:column; gap:48px; }
 .three { display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:40px; }
