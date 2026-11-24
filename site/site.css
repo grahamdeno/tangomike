@@ -49,6 +49,7 @@ h2 { margin:0; font-size:clamp(32px, 4vw, 52px); line-height:1.05; }
 .scales .tag { background:#DCE8BF; } .scales .line1 { color:#3B2240; }
 .shoebox .tag { background:#F9C93A; } .shoebox .line1 { color:#3B2240; }
 .popin .tag { background:#FFE4EF; } .popin .line1 { color:#C8146A; }
+.helddear .tag { background:#E3DCD1; } .helddear .line1 { color:#7A2E2A; }
 /* how */
 .how .wrap { padding-top:104px; padding-bottom:104px; display:flex; flex-direction:column; gap:48px; }
 .three { display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:40px; }
