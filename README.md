@@ -1,6 +1,6 @@
 # tangomike.app
 
-The home page for Graham D.'s iPhone apps: Scales, Shoebox, Pop In and Held Dear. Each app has its own site; this page
+The home page for Graham D.'s iPhone apps: Scales, Shoebox, Pop In, Held Dear and Rep Bell. Each app has its own site; this page
 links out to them.
 
 - `site/`: the static site. No build step, no scripts, strict CSP (`site/_headers`).
@@ -12,5 +12,6 @@ links out to them.
 | Shoebox | inmyshoebox.com | grahamdeno/Shoebox |
 | Pop In | popin.tangomike.app | grahamdeno/promptly (`site/`) |
 | Held Dear | helddear.tangomike.app | grahamdeno/helddear (`site/`) |
+| Rep Bell | repbell.tangomike.app | grahamdeno/repbell (`site/`) |
 
 Support for every app: support@tangomike.app.
